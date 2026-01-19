@@ -1,23 +1,27 @@
-# Zilly Test Task
+# Zeely Test Task
 
-Test task for Zilly
+Avatar Background Generator - A React application for generating custom avatar backgrounds.
 
-## Description
+## Tech Stack
 
-This repository contains the test task.
+- React 18 + TypeScript
+- Tailwind CSS + Radix UI
+- Vite
 
-## Installation
-
-```bash
-# Installation instructions will be added later
-```
-
-## Usage
+## Getting Started
 
 ```bash
-# Usage instructions will be added later
+# Install dependencies
+yarn install
+
+# Run development server
+yarn dev
 ```
 
-## Author
+Open [http://localhost:2020](http://localhost:2020) to view the application.
 
-Bogdan Malyshev
+## Build
+
+```bash
+yarn build
+```
